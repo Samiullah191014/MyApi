@@ -1,0 +1,86 @@
+
+ [
+    {
+        "id":"1",
+        "name":"mango",
+        "price":300,
+        "quality":"A1",
+        "category":"fruit",
+        "descr":"helo this is mango",
+        "rating":{
+            "rate":3.9,
+            "condition":"good"
+        }
+
+    },
+    {
+        "id":"2",
+        "name":"apple",
+        "price":4500,
+        "quality":"A1+",
+        "category":"fruit",
+        "descr":"helo this is apple",
+        "rating":{
+            "rate":4.1,
+            "condition":"good"
+        }
+
+    },
+
+    {
+        "id":"3",
+        "name":"banana",
+        "price":350,
+        "quality":"A",
+        "category":"fruit",
+        "descr":"helo this is banana",
+        "rating":{
+            "rate":3.6,
+            "condition":"good"
+        }
+
+    },
+
+    {
+        "id":"4",
+        "name":"iphone",
+        "price":30000,
+        "quality":"A1",
+        "category":"mobile",
+        "descr":"helo this is phone",
+        "rating":{
+            "rate":4.5,
+            "condition":"good"
+        }
+
+    },
+
+    {
+        "id":"5",
+        "name":"samsung",
+        "price":30740,
+        "quality":"A1",
+        "category":"mobile",
+        "descr":"helo this is phone",
+        "rating":{
+            "rate":4.9,
+            "condition":"good"
+        }
+
+    },
+
+    {
+        "id":"6",
+        "name":"nokia",
+        "price":53201,
+        "quality":"B",
+        "category":"mobile",
+        "descr":"helo this is PHONE NOKIA",
+        "rating":{
+            "rate":3.2,
+            "condition":"good"
+        }
+
+    }
+
+]
