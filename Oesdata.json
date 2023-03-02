@@ -14,17 +14,21 @@
 
     },
    {
-"id":2,
-"image" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9u79KeyplkZEqcfLEybKrGjTbznlo3ksEC5hg10Yc32bRTkt",
-"course" :"PC Systems",
-"instructor":"Judith Stevens",
-"categories":" IT & Software",
-"Rating":"5",
-"price":"$80",
-"description":"Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, Nam nec tellus a odio tincidunt auctor a ornare odio."
-},
+     "id":2,
+     "image" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9u79KeyplkZEqcfLEybKrGjTbznlo3ksEC5hg10Yc32bRTkt",
+      "course" :"PC Systems",
+      "instructor":"Judith Stevens",
+      "categories":" IT & Software",
+      "rating1":"5",
+      "price":"$80",
+      "description":"Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, Nam nec tellus a odio tincidunt auctor a ornare odio.",
+       "rating":{
+            "rate":3.9,
+            "condition":"good"
+        }
+     },
 
-    },
+    
 
     {
         "id":"3",
