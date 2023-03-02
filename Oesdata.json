@@ -13,17 +13,16 @@
         }
 
     },
-    {
-        "id":"2",
-        "name":"apple",
-        "price":4500,
-        "quality":"A1+",
-        "category":"fruit",
-        "descr":"helo this is apple",
-        "rating":{
-            "rate":4.1,
-            "condition":"good"
-        }
+   {
+"id":2,
+"image" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz9u79KeyplkZEqcfLEybKrGjTbznlo3ksEC5hg10Yc32bRTkt",
+"course" :"PC Systems",
+"instructor":"Judith Stevens",
+"categories":" IT & Software",
+"Rating":"5",
+"price":"$80",
+"description":"Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, Nam nec tellus a odio tincidunt auctor a ornare odio."
+},
 
     },
 
