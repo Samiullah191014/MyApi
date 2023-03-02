@@ -7,7 +7,12 @@
 "categories":"Language",
 "Rating":"5",
 "price":"Free",
-"description":"Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, Nam nec tellus a odio tincidunt auctor a ornare odio."
+"description":"Lorem Ipsn gravida nibh vel velit auctor aliquet.Aenean sollicitudin, Nam nec tellus a odio tincidunt auctor a ornare odio.",
+ "colors":{
+    
+     "#18dcff",
+     "#f39c12"
+ }
 },
   
    {
